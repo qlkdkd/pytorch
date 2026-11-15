@@ -6,3 +6,4 @@
 ### 목차
 - [c3](https://github.com/qlkdkd/pytorch/blob/main/c3/c3.md)
     - [c3-1](https://github.com/qlkdkd/pytorch/blob/main/c3/c3_1_tensor.md)
+    - [c3-4](https://github.com/qlkdkd/pytorch/blob/main/c3/c3_4_optimization.md)
