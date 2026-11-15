@@ -4,4 +4,5 @@
 ### [원본: 파이토치 트랜스포머를 활용한 자연어 처리와 컴퓨터 비전](https://github.com/wikibook/pytorchtrf)
 
 ### 목차
-- [c3]()
+- [c3](https://github.com/qlkdkd/pytorch/blob/main/c3/c3.md)
+    - [c3-1](https://github.com/qlkdkd/pytorch/blob/main/c3/c3_1_tensor.md)
